@@ -7,4 +7,6 @@ Step 4: Go into terminal (on windows, i'm not making a linux or mac version cuz 
 Step 5: Install the Java JDK (it's free) or install OpenJDK (which is also free) and go to your Path environment variable and add one with the directory C:\Program Files\Java\jdk-24\bin
 Step 6: If your terminal is still open, type javac mainfile.java 
   If it is not still open, repeat step 4.
-Step 7: Type jar cfe mainfile.java mainfile
+Step 7: Type jar cfe mainfile.jar mainfile mainfile.class
+Step 8: Go into your IDE or whatever you use (e.g. Visual Studio Code, the one I use) and run it or alternatively keep terminal open and type java mainfile.java
+Step 9: Enjoy!
